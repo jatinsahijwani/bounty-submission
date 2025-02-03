@@ -1,0 +1,11 @@
+
+Command: shopt -s histappend
+Output:
+
+Exit Code: 0
+----
+Command: pwd
+Output:
+/Users/jatinsahijwani/Desktop/hacktourind/devdockDir/bounty-m2r7u
+Exit Code: 0
+----
